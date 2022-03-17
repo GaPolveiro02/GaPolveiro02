@@ -1,4 +1,4 @@
-### Hello world, eu sou o Gabriel Polveiro desenvolvedor front end!👋
+### Hello world, eu sou o Gabriel Polveiro desenvolvedor web front end!👋
 
 <div align="center">
   
