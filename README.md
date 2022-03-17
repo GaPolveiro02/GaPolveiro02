@@ -1,7 +1,7 @@
 ### Hello world, eu sou o Gabriel Polveiro desenvolvedor front end!👋
 
 <div align="center">
-  <a href="https://github.com/GaPolveiro02">
+  
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?    username=GaPolveiro02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaPolveiro02&layout=compact&langs_count=7&theme=algolia"/>
 </div>
