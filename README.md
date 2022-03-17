@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaPolveiro02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaPolveiro02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaPolveiro02&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
@@ -18,9 +18,9 @@
 <div>
      Hello world! , eu sou o Gabriel Polveiro estudante de desenvolvimento web!👋
      Tenho 21 Anos e sou estudante na Unicep - Centro Universitário Central Paulista,sou matriculado no curso de graduação em 
-     Engenharia da computação e atualmente estou 7º Periodo.Comecei a estudar desenvolvimento web fazem 2 anos e desde então 
+     Engenharia da computação e atualmente estou 7º Periodo. Comecei a estudar desenvolvimento web fazem 2 anos e desde então 
      tenho me apaixonado cada vez mais por essa área.
-     Comecei estudando HTML,CSS e JavaScript mas atualmente venho estudando React.js.
+     Comecei estudando HTML, CSS e JavaScript mas atualmente venho estudando React.js.
 </div>
 
 ## 
