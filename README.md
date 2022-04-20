@@ -20,15 +20,15 @@
 
 ##
 
-<div> 
-     **Sobre mim:**
-
-    
-</div>
-
+ **Sobre mim:**
+ - Comecei a estudar desenvolvimento web em 2019 💻
+ - JavaScript | NodeJS | React ⚛️
+ - Em busca da minha primeira oportunidade como programador ✨
+ - Estudante de engenharia da computação 📝
+ 
 ## 
 
-<div> 
+<div align="center" style="display: inline_block"> 
   <a href = "mailto:gabrielpolveiro12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-polveiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
