@@ -6,7 +6,7 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaPolveiro02&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-##
+* * *
 
 **Linguagens e ferramentas:**
 
