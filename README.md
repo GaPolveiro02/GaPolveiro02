@@ -1,4 +1,4 @@
-### Hello world, eu sou o Gabriel Polveiro desenvolvedor web front end!👋
+### Hello world, I'm Gabriel Polveiro front end web developer!👋
 
 
 
@@ -10,7 +10,7 @@
 
 * * *
 
-**Linguagens e ferramentas:**
+**Languages & skills**
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,11 +22,11 @@
 
 ##
 
- **Sobre mim:**
- - Comecei a estudar desenvolvimento web em 2019 💻
+ **About me:**
+ - Studing web development since 2019 💻
  - JavaScript | NodeJS | React ⚛️
- - Em busca da minha primeira oportunidade como programador ✨
- - Estudante de engenharia da computação 📝
+ - Searching for my first opportunity to work as a front end web developer ✨
+ - Student of computer engeneering 📝
  
 ## 
 
