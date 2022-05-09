@@ -24,7 +24,7 @@
 
  **About me:**
  - Studing web development since 2019 💻
- - HTML| CSS | JavaScript | NodeJS | React ⚛️
+ - HTML | CSS | JavaScript | NodeJS | React ⚛️
  - Searching for my first opportunity to work as a front end web developer ✨
  - Student of computer engeneering 📝
  
